@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FacebookModule</string>
+    <string name="facebook_app_id">297571774046364</string>
+    <string name="fb_login_protocol_scheme">fb297571774046364</string>
+    <string name="likes">Likes :</string>
+    <string name="reaction">Reactions :</string>
+    <string name="name">UserName :</string>
+    <string name="email">Email :</string>
+    <string name="log_out">Log out</string>
+</resources>
